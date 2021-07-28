@@ -2,8 +2,8 @@
 <img align="right" src="knowledge.png">
 Meu nome é Anderson Silva, tenho 19 anos e sou estudante de programação. Estudo a mais de 4 anos Desenvolvimento Web e Web Design.
 A linguagem base que trabalho hoje em dia é o PHP. Estudei diversos bancos de dados, como o MongoDB, MariaDB e me especializei no MySQL.
-
-### Gosto de trabalhar em equipe e valorizo todas visões, aceitando opiniões divergentes no meio profissional.
+<br><br>
+Gosto de trabalhar em equipe e valorizo todas visões, aceitando opiniões divergentes no meio profissional.
 
 ### Como me encontrar?
 - 📫 E-mail para trabalhos ou parcerias: andersonfer.web@gmail.com
